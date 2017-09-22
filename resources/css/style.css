@@ -128,3 +128,9 @@ span.line_text {
   align-items: center;
   flex-direction: row;
 }
+
+.block_con {
+  width: 300px;
+  height: auto;
+  bacground-color: black;
+}
