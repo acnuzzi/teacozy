@@ -70,7 +70,6 @@ div.pic_mission_con {
 
 div.mid_container {
   display: flex;
-  flex-direction: column;
   width: 1000px;
   align-items: center;
 }
