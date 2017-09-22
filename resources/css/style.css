@@ -3,8 +3,8 @@ header {
   width: 100%;
   position: fixed;
   border-bottom: solid;
-  border-weight: thin;
-  border-color: seashell;
+  border-width: thin;
+  border-color: orange;
   background-color: black;
   z-index: 1;
   height: 69px;
