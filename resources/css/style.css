@@ -51,7 +51,6 @@ span.header_nav a {
 
 div.top_container {
   display: flex;
-
   height: 700px;
   width: 1200px;
   margin: auto;
@@ -64,6 +63,7 @@ div.pic_mission_con {
   width: 100%;
   text-align: center;
   opacity: 0.9;
+  flex-direction: column;
 }
 
 
