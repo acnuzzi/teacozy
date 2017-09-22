@@ -17,6 +17,6 @@ div.header {
   flex-direction: row;
   width: 100%;
   color: white;
-  align-content: center;
+  align-items: center;
 }
   
