@@ -160,4 +160,5 @@ div.bot_container span {
 .footer_con {
   display: flex;
   height: 200px;
+  text-align: center;
 }
