@@ -132,7 +132,6 @@ span.line_text {
 div.bot_container span {
   font-size: 48px;
   text-align: center;
-  margin-top: 50px;
   opacity: 0.9;
 }
 
@@ -141,7 +140,7 @@ div.bot_container span {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  margin-top: 40px;
+  margin-top: 50px;
 }
   
 .block_con {
