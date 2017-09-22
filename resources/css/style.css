@@ -85,14 +85,12 @@ div.mid_container {
 div.three_pic {
    display: flex;
    flex-direction: row;
-   align-items: center;
    text-align: center;
 }
 
 div.two_pic {
    display: flex;
    flex-direction: row;
-   align-items: center;
    text-align: center;
 }
 
@@ -110,7 +108,6 @@ img.img_mid {
 div.img_con {
    display: flex;
    flex-direction: column;
-   align-items: center;
    text-align: center;
    margin-right: 25px;
 }
