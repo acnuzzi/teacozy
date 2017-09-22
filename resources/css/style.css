@@ -81,6 +81,7 @@ img.img_mid {
 }
 
 img.three_pic {
+    flex-direction: row;
     vertical-align: top;
     display: inline-block;
     text-align: center;
