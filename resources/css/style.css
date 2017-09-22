@@ -123,8 +123,8 @@ span.line_text {
 .bot_container {
   background-image: url("../images/img-locations-background.jpg");
   display: flex;
-  width: 300px;
-  height: auto;
+  width: 1200px;
+  height: 500px;
   align-items: center;
   flex-direction: row;
 }
