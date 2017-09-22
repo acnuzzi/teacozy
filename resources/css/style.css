@@ -60,5 +60,6 @@ div.top_container {
 div.pic_mission_con {
   flex-direction: column;
   background-color: black;
-  width: auto;
+  width: 100%;
+  text-align: center:
   }
