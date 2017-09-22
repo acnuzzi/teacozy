@@ -50,6 +50,7 @@ span.header_nav a {
   width: 1200px;
   flex-direction: column;
   align-items: center;
+  margin: auto;
 }
 
 div.top_container {
