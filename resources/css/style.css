@@ -23,7 +23,7 @@ header {
 div.header {
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
+
   width: 100%;
   align-items: center;
 }
@@ -32,6 +32,7 @@ img.img_logo {
   height: 50px;
   align-item: center;
   margin-left: 10px;
+  margin:0;
 }
   
 span.header_nav a {
