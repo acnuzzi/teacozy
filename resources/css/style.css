@@ -64,8 +64,8 @@ div.pic_mission_con {
   text-align: center;
   opacity: 0.9;
   margin: 0;
-  position: relative;
 }
 
 span.top_text {
+  position: relative;
 }
