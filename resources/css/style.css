@@ -80,3 +80,13 @@ img.img_mid {
   width: 300px;
 }
 
+img.three_pic {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+span.line_text {
+  display: flex;
+}
+
