@@ -118,4 +118,13 @@ span.line_text {
 }
 
 
+/* bot container properties */
 
+.bot_container {
+  background-image: url("../images/img-locations-background.jpg");
+  display: flex;
+  width: 300px;
+  height: auto;
+  align-items: center;
+  flex-direction: row;
+}
