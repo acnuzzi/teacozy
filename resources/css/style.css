@@ -94,7 +94,7 @@ img.img_mid {
   text-align: center;
 }
 
-div.two_pic {
+div {
    display: flex;
    flex-direction: row;
    align-items: center;
