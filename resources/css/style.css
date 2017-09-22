@@ -154,3 +154,10 @@ div.bot_container span {
   margin-right: 40px;
   opacity: 1;
 }
+
+/* Footer Properties */
+
+.footer_con {
+  display: flex;
+  height: 200px;
+}
