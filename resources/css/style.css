@@ -44,9 +44,12 @@ span.header_nav a {
 
 /* start of main_container with 3 container option */
 
+#main_container {
+    margin-top: 70px;
+}
+
 div.top_container {
   display: block;
-  margin-top: 70px;
   height: 700px;
   width: 1200px;
   margin: auto;
