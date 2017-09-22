@@ -72,6 +72,12 @@ div.pic_mission_con {
 
 /* Start of Middle Container */
 
+div.width_mid_container {
+  display: flex;
+  width: 1200px;
+  align-items: center;
+}
+
 div.mid_container {
   display: flex;
   width: 1000px;
