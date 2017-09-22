@@ -49,18 +49,17 @@ span.header_nav a {
 }
 
 div.top_container {
-  display: block;
+  display: flex;
   height: 700px;
   width: 1200px;
   margin: auto;
   background-image: url("../images/img-mission-background.jpg");
+  align-items: center;
 }
 
 div.pic_mission_con {
-  -webkit-align-content:table-cell;
-  display: table-cell;
   flex-direction: column;
   background-color: black;
   width: auto;
-  vertical-align: middle;
+  align-items: center;
 }
