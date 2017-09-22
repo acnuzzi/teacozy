@@ -87,6 +87,14 @@ div.three_pic {
    text-align: center;
 }
 
+div.two_pic {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   text-align: center;
+}
+
+
 span.line_text {
   display: flex;
 }
