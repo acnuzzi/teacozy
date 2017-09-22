@@ -126,7 +126,7 @@ span.line_text {
   width: 1200px;
   height: 500px;
   flex-direction: column;
-
+  margin: 40px;
 }
 
 div.bot_container span {
