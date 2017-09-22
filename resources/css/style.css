@@ -132,9 +132,8 @@ span.line_text {
 div.bot_container span {
   font-size: 48px;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 60px;
   opacity: 0.9;
-  margin-top: -10px;
 }
 
 .bot_row_container {
