@@ -23,7 +23,6 @@ header {
 div.header {
   display: flex;
   justify-content: space-between;
-
   width: 100%;
   align-items: center;
 }
@@ -46,7 +45,8 @@ span.header_nav a {
 /* start of main_container with 3 container option */
 
 #main_container {
-    padding-top: 62px;
+  padding-top: 62px;
+  align-items: center;
 }
 
 div.top_container {
