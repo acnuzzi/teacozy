@@ -75,10 +75,8 @@ div.mid_container {
   flex-direction: column;
 }
 
-img.img_mid {
-  height: 200px;
-  width: 300px;
-}
+
+/* containers for three and two pic in rows */
 
 div.three_pic {
    display: flex;
@@ -87,11 +85,22 @@ div.three_pic {
    text-align: center;
 }
 
+div.two_pic {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   text-align: center;
+}
+
+/* properties for both three_pic and two_pic */
+
 img.img_mid {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
+  height: 200px;
+  width: 300px;
 }
 
 div.img_con {
