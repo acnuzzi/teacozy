@@ -79,7 +79,7 @@ img.img_mid {
   width: 300px;
 }
 
-img.three_pic {
+div.three_pic {
    display: flex;
    flex-direction: row;
    align-items: center;
