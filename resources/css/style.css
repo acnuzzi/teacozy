@@ -57,11 +57,10 @@ div.top_container {
 }
 
 div.pic_mission_con {
-  -webkit-align-content:flex;
-  display: flex;
+  -webkit-align-content:table-cell;
+  display: table-cell;
   flex-direction: column;
   background-color: black;
   width: auto;
-  align-content: center;
-  -webkit-align-content: center;
+  vertical-align: middle;
 }
