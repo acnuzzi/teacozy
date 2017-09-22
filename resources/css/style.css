@@ -48,7 +48,7 @@ div.top_container {
   display: flex;
   height: 700px;
   width: 1200px;
-  justify-content: center;
+  margin: auto;
   background-image: url("../images/img-mission-background.jpg");
 }
 
