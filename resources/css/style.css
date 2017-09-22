@@ -15,7 +15,8 @@ div.header {
   justify-content: space-between;
   flex-direction: row;
   width: 100%;
-  color: white;
+  color: seashell;
   align-items: center;
+  text: 50px;
 }
   
