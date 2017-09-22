@@ -45,6 +45,7 @@ span.header_nav a {
 /* start of main_container with 3 container option */
 
 #main_container {
+  display: flex;
   padding-top: 62px;
   align-items: center;
 }
@@ -55,10 +56,10 @@ div.top_container {
   width: 1200px;
   margin: auto;
   background-image: url("../images/img-mission-background.jpg");
-  align-items: center;
 }
 
 div.pic_mission_con {
+  display: flex;
   background-color: black;
   width: 100%;
   text-align: center;
