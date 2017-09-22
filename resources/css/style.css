@@ -54,7 +54,7 @@ div.top_container {
   width: 1200px;
   margin: auto;
   background-image: url("../images/img-mission-background.jpg");
-  align-items: center;
+  align-content: center;
 }
 
 div.pic_mission_con {
@@ -62,7 +62,6 @@ div.pic_mission_con {
   width: 100%;
   text-align: center;
   opacity: 0.9;
-  align-self: center;
 }
 
 
