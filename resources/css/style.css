@@ -4,6 +4,7 @@ header {
   position: fixed;
   border-bottom: solid;
   border-weight: thin;
+  border-color: seashell;
   background-color: black;
   z-index: 1;
   height: 69px;
@@ -16,7 +17,6 @@ div.header {
   justify-content: space-between;
   flex-direction: row;
   width: 100%;
-  color: seashell;
   align-items: center;
 }
 
@@ -24,6 +24,8 @@ img.img_logo {
   height: 50px;
   align-item: center;
   margin-left: 10px;
-  color: seashell;
 }
   
+div.nav.con {
+  color: seashell;
+}
