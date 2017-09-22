@@ -11,7 +11,8 @@ header {
   height: 80px;
 }
 
-.header.con {
+div.header {
+  display: flex;
   justify-content: space-between;
   flex-direction: row;
 }
