@@ -83,7 +83,6 @@ div.three_pic {
    flex-direction: row;
    align-items: center;
    text-align: center;
-   margin-right: 10px;
 }
 
 div.two_pic {
@@ -109,6 +108,7 @@ div.img_con {
    flex-direction: column;
    align-items: center;
    text-align: center;
+   margin-right: 25px;
 }
 
 
