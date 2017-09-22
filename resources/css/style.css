@@ -48,9 +48,9 @@ div.top_container {
   display: flex;
   height: 700px;
   width: 1200px;
-  position: center;
+  justify-content: center;
   background-image: url("../images/img-mission-background.jpg");
 }
 
-span.pic_mission_text {
+span.pic_mission_con {
 }
