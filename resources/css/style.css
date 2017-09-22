@@ -129,6 +129,7 @@ span.line_text {
 }
 
 .bot_row_container {
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
