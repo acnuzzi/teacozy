@@ -48,4 +48,5 @@ div.top_container {
   height: 700px;
   width: 1200px;
   position: center;
+  background-image: url("../images/img-mission-background.png");
 }
