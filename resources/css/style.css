@@ -1,5 +1,17 @@
 header {
   display: flex;
-  justify-content: space-between;
+  width: 100%;
+  position: fixed;
+  border-bottom: solid;
   flex-direction: row;
+  justify-content: space-between;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  background-color: white;
+  z-index: 1;
+  height 80px;
+  margin-top: -10px;
+  height: 80px;
 }
