@@ -48,10 +48,9 @@ div.top_container {
   height: 700px;
   width: 1200px;
   position: center;
-  background-image: url("../images/img-mission-background.png");
+  background-image: url("../images/img-mission-background.jpg");
   z-index:2;
 }
 
 span.pic_mission_text {
-   background-image: url("../images/img-mission-background.png");
 }
