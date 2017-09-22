@@ -164,6 +164,5 @@ div.bot_container span {
 }
 
 .copyright_con {
-  display: flex;
-  justify-content: flex-start;
+  align-text:right;
 }
