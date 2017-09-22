@@ -126,7 +126,11 @@ span.line_text {
   width: 1200px;
   height: 500px;
   flex-direction: column;
-  margin-top: 50px;
+
+}
+
+div.bot_container span {
+    margin-top: 50px;
 }
 
 .bot_row_container {
@@ -134,6 +138,7 @@ span.line_text {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-top: 50px;
 }
   
 .block_con {
