@@ -55,16 +55,16 @@ div.top_container {
   margin: auto;
   background-image: url("../images/img-mission-background.jpg");
   align-items: center;
-  flex-direction: column;
 }
 
 div.pic_mission_con {
-  
+  flex-direction: column;
   background-color: black;
   width: 100%;
   text-align: center;
   opacity: 0.9;
   margin: 0;
+  height: 200px;
 }
 
 span.top_text {
