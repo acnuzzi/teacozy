@@ -76,6 +76,7 @@ div.width_mid_container {
   display: inline-block;
   width: 1200px;
   margin-left: 25%;
+  position: fixed;
 }
 
 div.mid_container {
