@@ -39,3 +39,13 @@ span.header_nav a {
   padding: 10px;
   opacity: 0.9;
 }
+
+/* Completion of Header CSS */
+
+/* start of main_container with 3 container option */
+
+div.top_container {
+  height: 700px;
+  width: 1200px;
+  position: center;
+}
