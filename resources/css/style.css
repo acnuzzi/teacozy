@@ -75,3 +75,8 @@ div.mid_container {
   align-items: center;
 }
 
+img.img_mid {
+  height: 200px;
+  width: 300px;
+}
+
