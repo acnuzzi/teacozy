@@ -49,6 +49,7 @@ span.header_nav a {
   padding-top: 62px;
   width 1200px;
   flex-direction: column;
+  align-items: center;
 }
 
 div.top_container {
