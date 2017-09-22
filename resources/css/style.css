@@ -47,7 +47,7 @@ span.header_nav a {
 #main_container {
   display: flex;
   padding-top: 62px;
-  align-items: center;
+
 }
 
 div.top_container {
@@ -74,6 +74,7 @@ div.mid_container {
   width: 1000px;
   align-items: center;
   flex-direction: column;
+  align-items: center;
 }
 
 
