@@ -26,6 +26,6 @@ img.img_logo {
   margin-left: 10px;
 }
   
-span.header_nav {
+span.header_nav a {
   color: seashell;
 }
