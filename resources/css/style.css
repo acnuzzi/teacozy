@@ -7,6 +7,8 @@ header {
   background-color: black;
   z-index: 1;
   height: 69px;
+  margin-top: -5px;
+  margin-left: -5px;
 }
 
 div.header {
@@ -20,5 +22,6 @@ div.header {
 
 div.logo {
   height: 50px;
+  align-item: center;
 }
   
