@@ -116,6 +116,7 @@ div.img_con {
 
 span.line_text {
   margin: 10px 0px;
+  opacity: 0.9;
 }
 
 
@@ -155,7 +156,15 @@ div.bot_container span {
   opacity: 1;
 }
 
+.block_con h3, .block_con h4 {
+  opacity: 0.9;
+}
+
 /* Footer Properties */
+
+.footer_con_text {
+  opacity: 0.9;
+}
 
 .footer_con {
   display: flex;
@@ -166,4 +175,8 @@ div.bot_container span {
 .copyright_con {
   text-align: left;
   margin-left: 20px;
+}
+
+.copyright_con h5 {
+  opacity: 0.9;
 }
