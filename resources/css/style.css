@@ -45,7 +45,6 @@ span.header_nav a {
 /* start of main_container with 3 container option */
 
 #main_container {
-  display: flex;
   padding-top: 62px;
 
 }
