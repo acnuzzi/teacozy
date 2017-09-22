@@ -73,10 +73,10 @@ div.pic_mission_con {
 /* Start of Middle Container */
 
 div.width_mid_container {
-  display: flex;
+  display: block;
   width: 1200px;
   align-items: center;
-  margin: 0;
+  margin: auto;
 }
 
 div.mid_container {
