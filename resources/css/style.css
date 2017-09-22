@@ -75,8 +75,8 @@ div.pic_mission_con {
 div.width_mid_container {
   display: block;
   width: 1200px;
-  align-items: center;
   margin: auto;
+  veritcal-align: center;
 }
 
 div.mid_container {
