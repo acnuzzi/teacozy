@@ -125,11 +125,15 @@ span.line_text {
   display: flex;
   width: 1200px;
   height: 500px;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center
+  flex-direction: column;
 }
 
+.bot_row_container {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+  
 .block_con {
   width: 300px;
   height: auto;
