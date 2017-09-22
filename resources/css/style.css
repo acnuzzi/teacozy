@@ -57,6 +57,7 @@ div.top_container {
 }
 
 div.pic_mission_con {
+  display:flex;
   background-color: black;
   align-items: center;
 }
