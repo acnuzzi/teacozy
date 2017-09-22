@@ -58,12 +58,11 @@ div.top_container {
 }
 
 div.pic_mission_con {
+  display: inline-block;
   flex-direction: column;
   background-color: black;
   width: 100%;
   text-align: center;
   opacity: 0.9;
   margin: 0;
-  padding-top: -10px;
-  padding-bottom: -50px;
   }
