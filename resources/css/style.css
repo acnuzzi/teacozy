@@ -6,7 +6,6 @@ header {
   border-weight: thin;
   background-color: black;
   z-index: 1;
-  margin-top: -10px;
   height: 69px;
 }
 
@@ -17,6 +16,9 @@ div.header {
   width: 100%;
   color: seashell;
   align-items: center;
-  text: 50px;
+}
+
+div.logo {
+  height: 50px;
 }
   
