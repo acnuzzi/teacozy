@@ -52,7 +52,6 @@ div.top_container {
   display: flex;
   height: 700px;
   width: 1200px;
-  margin: auto;
   background-image: url("../images/img-mission-background.jpg");
   align-items: center;
 }
