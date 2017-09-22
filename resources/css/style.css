@@ -66,5 +66,12 @@ div.pic_mission_con {
 }
 
 
-span.top_text {
+/* Start of Middle Container */
+
+div.mid_container {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  align-items: center;
 }
+
