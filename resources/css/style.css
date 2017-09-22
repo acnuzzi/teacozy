@@ -125,7 +125,7 @@ span.line_text {
   display: flex;
   width: 1200px;
   height: 500px;
-  align-items: center;
+  align-items: baseline;
   flex-direction: row;
   justify-content: center
 }
