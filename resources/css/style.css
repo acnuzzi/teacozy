@@ -80,10 +80,10 @@ img.img_mid {
 }
 
 img.three_pic {
-    display: flex;
-    flex-direction: row;
-    vertical-align: top;
-    text-align: center;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   text-align: center;
 }
 
 span.line_text {
