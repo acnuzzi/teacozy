@@ -45,11 +45,11 @@ span.header_nav a {
 /* start of main_container with 3 container option */
 
 div.top_container {
+  display: flex;
   height: 700px;
   width: 1200px;
   position: center;
   background-image: url("../images/img-mission-background.jpg");
-  z-index:2;
 }
 
 span.pic_mission_text {
