@@ -69,19 +69,15 @@ div.pic_mission_con {
   text-align: center;
   opacity: 0.9;
   flex-direction: column;
-  border-style: solid;
-  border-color: blue;
   height: 100px;
 }
 
 span.top_text h2 {
-  color: yellow;
   position: relative;
   bottom: 20px;
 }
 
 span.top_text h4 {
-  color: orange;
   position: relative;
   bottom: 70px;
 }
@@ -94,8 +90,6 @@ div.mid_container {
   align-items: center;
   flex-direction: column;
   margin-top: 60px;
-  border-style: solid;
-  border-color: orange;
 }
 
 
@@ -182,8 +176,6 @@ div.bot_container span {
 .footer_con {
   display: flex;
   height: 200px;
-  border-style: solid;
-  border-color: orange;
   margin-top: 0px;
   text-align: center;
   margin-top: -105px;
