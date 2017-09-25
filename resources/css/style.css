@@ -74,6 +74,11 @@ div.pic_mission_con {
   height: 120px;
 }
 
+span.top_text h2 {
+  color: yellow;
+  position: relative;
+}
+
 span.top_text h4 {
   color: orange;
   position: relative;
