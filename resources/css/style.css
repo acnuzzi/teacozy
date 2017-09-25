@@ -8,6 +8,7 @@ html {
 
 header {
   display: flex;
+  position: fixed;
   width: 100%;
   border-bottom: solid;
   border-width: thin;
