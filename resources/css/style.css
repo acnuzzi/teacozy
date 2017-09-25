@@ -92,7 +92,6 @@ div.mid_container {
   align-items: center;
   flex-direction: column;
   margin-top: 40px;
-  font-size: 22px;
 }
 
 
@@ -130,6 +129,7 @@ img.img_mid {
 span.line_text {
   margin: 10px 0px;
   opacity: 0.9;
+  font-size: 22px;
 }
 
 
