@@ -70,10 +70,9 @@ div.pic_mission_con {
   opacity: 0.9;
   height: 50px;
   flex-direction: column;
-  margin
   border-style: solid;
   border-color: orange;
-  padding-top: -10px;
+  padding-top: 20px;
 }
 
 
