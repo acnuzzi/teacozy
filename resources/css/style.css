@@ -75,7 +75,7 @@ div.pic_mission_con {
 
 span.top_text h4 {
   color: orange;
-  padding-top: -10px;
+  position: relative;
 }
 
 /* Start of Middle Container */
