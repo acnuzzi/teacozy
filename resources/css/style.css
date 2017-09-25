@@ -171,12 +171,13 @@ div.bot_container span {
   border-color: orange;
   margin-top: 0px;
   text-align: center;
-  margin-top: -100px;
+
 }
 
 .footer_con_text {
   opacity: 0.9;
   align-items: center;
+  margin-top: -100px;
 }
 
 .copyright_con {
