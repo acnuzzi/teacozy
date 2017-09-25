@@ -44,7 +44,7 @@ span.header_nav a {
 
 /* Completion of Header CSS */
 
-/* start of main_container with 3 container option */
+/* start of main_container with 3 container option (top, middle, bottom)*/
 
 #main_container {
   display: flex;
@@ -111,6 +111,12 @@ div.two_pic {
 
 /* properties for both three_pic and two_pic */
 
+div.img_con {
+   display: flex;
+   text-align: center;
+   margin-right: 25px;
+}
+
 img.img_mid {
   display: flex;
   flex-direction: column;
@@ -118,13 +124,6 @@ img.img_mid {
   text-align: center;
   height: 200px;
   width: 300px;
-}
-
-div.img_con {
-   display: flex;
-   flex-direction: column;
-   text-align: center;
-   margin-right: 25px;
 }
 
 span.line_text {
