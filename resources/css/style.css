@@ -175,8 +175,7 @@ div.bot_container span {
   border-color: orange;
   margin-top: 0px;
   text-align: center;
-  align-item: center;
-  width: 1200px;
+  justify-content: center;
 }
 
 .copyright_con {
