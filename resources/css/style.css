@@ -164,10 +164,6 @@ div.bot_container span {
 
 /* Footer Properties */
 
-.footer_con_text {
-  opacity: 0.9;
-}
-
 .footer_con {
   display: flex;
   height: 200px;
@@ -175,7 +171,11 @@ div.bot_container span {
   border-color: orange;
   margin-top: 0px;
   text-align: center;
-  justify-content: center;
+}
+
+.footer_con_text {
+  opacity: 0.9;
+  align-items: center;
 }
 
 .copyright_con {
