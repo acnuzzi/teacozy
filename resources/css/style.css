@@ -173,6 +173,8 @@ div.bot_container span {
   height: 200px;
   text-align: center;
   align-content: flex-start;
+  border-style: line;
+  border-color: orange;
 }
 
 .copyright_con {
