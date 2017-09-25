@@ -54,6 +54,7 @@ span.header_nav a {
 
 }
 
+/* start of top container */
 div.top_container {
   display: flex;
   height: 700px;
@@ -71,6 +72,7 @@ div.pic_mission_con {
   flex-direction: column;
     border-style: solid;
   border-color: orange;
+  margin-top: -20px;
 }
 
 
