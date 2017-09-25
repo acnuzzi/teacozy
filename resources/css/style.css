@@ -81,6 +81,8 @@ div.mid_container {
   align-items: center;
   flex-direction: column;
   margin-top: 60px;
+  border-style: solid;
+  border-color: orange;
 }
 
 
