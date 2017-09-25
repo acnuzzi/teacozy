@@ -77,6 +77,7 @@ div.pic_mission_con {
 span.top_text h2 {
   color: yellow;
   position: relative;
+  top: 20px;
 }
 
 span.top_text h4 {
