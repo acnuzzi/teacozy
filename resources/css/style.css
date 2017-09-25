@@ -51,7 +51,6 @@ span.header_nav a {
   flex-direction: column;
   align-items: center;
   margin: auto;
-
 }
 
 /* start of top container */
@@ -69,8 +68,9 @@ div.pic_mission_con {
   width: 100%;
   text-align: center;
   opacity: 0.9;
+  height: 100px;
   flex-direction: column;
-    border-style: solid;
+  border-style: solid;
   border-color: orange;
 }
 
