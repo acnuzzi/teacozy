@@ -175,6 +175,7 @@ div.bot_container span {
   align-content: flex-start;
   border-style: solid;
   border-color: orange;
+  margin: -20px;
 }
 
 .copyright_con {
