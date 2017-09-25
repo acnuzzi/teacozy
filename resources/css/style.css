@@ -71,19 +71,19 @@ div.pic_mission_con {
   flex-direction: column;
   border-style: solid;
   border-color: blue;
-  height: 120px;
+  height: 100px;
 }
 
 span.top_text h2 {
   color: white;
   position: relative;
-  top: 20px;
+  bottom: 20px;
 }
 
 span.top_text h4 {
   color: orange;
   position: relative;
-  bottom: 50px;
+  bottom: 70px;
 }
 
 /* Start of Middle Container */
