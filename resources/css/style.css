@@ -51,7 +51,7 @@ span.header_nav a {
   flex-direction: column;
   align-items: center;
   margin: auto;
-  border-style: line;
+  border-style: solid;
   border-color: orange;
 }
 
@@ -173,7 +173,7 @@ div.bot_container span {
   height: 200px;
   text-align: center;
   align-content: flex-start;
-  border-style: line;
+  border-style: solid;
   border-color: orange;
 }
 
