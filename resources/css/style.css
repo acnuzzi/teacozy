@@ -20,7 +20,7 @@ header {
   margin-left: -8px;
 }
 
-div.header {
+div.header_con {
   display: flex;
   justify-content: space-between;
   width: 100%;
