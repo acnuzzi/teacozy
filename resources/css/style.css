@@ -32,7 +32,7 @@ img.img_logo {
   align-item: center;
   margin-left: 10px;
   margin:0;
-  padding-left: 0px;
+  padding-left: 10px;
 }
   
 span.header_nav a {
@@ -47,7 +47,7 @@ span.header_nav a {
 
 #main_container {
   display: flex;
-  padding-top: 62px;
+  padding-top: 52px;
   width: 1200px;
   flex-direction: column;
   align-items: center;
