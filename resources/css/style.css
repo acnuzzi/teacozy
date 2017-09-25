@@ -47,11 +47,13 @@ span.header_nav a {
 
 #main_container {
   display: flex;
-  padding-top: 52px;
+  padding-top: 32px;
   width: 1200px;
   flex-direction: column;
   align-items: center;
   margin: auto;
+  border-style: solid;
+  border-style: orange;
 }
 
 /* start of top container */
