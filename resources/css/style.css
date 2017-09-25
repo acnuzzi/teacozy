@@ -71,8 +71,7 @@ div.pic_mission_con {
   flex-direction: column;
   border-style: solid;
   border-color: orange;
-  position: relative;
-  bottom: 20px;
+  height: 100px;
 }
 
 span.top_text h4 {
