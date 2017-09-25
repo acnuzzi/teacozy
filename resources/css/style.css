@@ -171,11 +171,10 @@ div.bot_container span {
 .footer_con {
   display: flex;
   height: 200px;
-  text-align: center;
-  align-content: flex-start;
+  justify-content: center;
   border-style: solid;
   border-color: orange;
-  margin: -20px;
+  margin: -80px;
 }
 
 .copyright_con {
