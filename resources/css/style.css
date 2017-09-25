@@ -72,6 +72,7 @@ div.pic_mission_con {
   border-style: solid;
   border-color: orange;
   position: relative;
+  bottom: 20px;
 }
 
 span.top_text h4 {
